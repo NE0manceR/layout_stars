@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,aACE,UAAW,CACX,WAAY,CACZ,gBACF,CAEA,wBACE,cACF","file":"style.d94eaa49.css","sourceRoot":"..\\src","sourcesContent":[".stars__star {\r\n  width: 15px;\r\n  height: 15px;\r\n  margin-right: 4px;\r\n}\r\n\r\n.stars__star:last-child {\r\n  margin-right: 0;\r\n}\r\n"]}
